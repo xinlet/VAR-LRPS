@@ -1,2 +1,17 @@
-# VAR-LRPS
-Code for vector autoregressive models for functional MRI activity: A low-rank pre-smoothing approach
+# Robust vector autoregressive models for functional MRI activity: A low-rank pre-smoothing approach
+
+## Abstract
+
+Vector autoregressive (VAR) models have a history of being used to examine functional connectivity in the brain, as captured by functional MRI studies. Such VAR models allow for an estimation of Granger-causal relationships between regions-of-interest (ROI) across the brain. Unfortunately, since the number of parameters in the VAR model scales as the square of the number of ROI, and this is typically large compared to the number of temporal observations, these parameter estimates will exhibit high variance. A common approach is to regularise the VAR parameters, e.g. one may assume a sparse-VAR model where the number of interacting regions is assumed to be relatively small. In this paper, we propose an alternative low-rank pre-smoothing (LRPS) scheme to ensure the robustness of parameter estimates which performs a low-rank approximation of the observations, prior to fitting the VAR model. We fit models to individuals within a population spanning a range of tasks (including resting state data), where we demonstrate that the LRPS estimates preserve causal functional connectivity structure at the population level, whilst allowing for individual differences. This contrasts with the sparse-VAR approach, which allows individual causal relationships, but with structure that is not preserved when averaging across the population. The proposed LRPS scheme thus provides a new method to enable robust estimation of VAR parameters at the individual level, greatly reducing predictive error, whilst also enabling some interpretation at the population level. Synthetic experiments further demonstrate the effectiveness of the pre-smoothing technique.
+
+## Authors
+
+[Xinle Tian](https://xinlet.github.io/), [Alex Gibberd](https://sites.google.com/view/gibberd/) , [Matthew Nunes](https://people.bath.ac.uk/man54/homepage.html), [Sandipan Roy](https://sites.google.com/view/sandipanroy)
+
+## ArXiv link
+Preprint paper link can be found at [TBD]<br />
+
+## Datasets
+DMCC55B dataset can be found at [https://openneuro.org/datasets/ds003465/versions/1.0.7]<br />
+Movie-watching dataset can be found at [https://openneuro.org/datasets/ds000228/versions/1.1.1]<br />
+Resting-state dataset can be found at [https://https://openneuro.org/datasets/ds005003/versions/2.0.0]<br />
