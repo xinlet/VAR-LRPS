@@ -20,7 +20,7 @@ Resting-state dataset can be found at [https://https://openneuro.org/datasets/ds
 This work follows a three-stage pipeline combining Python and R:
 
 1. **Pre-processing (Python)**
-   - Raw image data are processed in Python.
+   - Raw data (`*_bold.nii.gz`) are processed in Python.
    - The AAL atlas is applied to extract region-level measurements.
    - Subjects with missing variables required for the analysis are excluded
      during this stage.
