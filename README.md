@@ -27,5 +27,14 @@ This work follows a three-stage pipeline combining Python and R:
    - The preprocess code can be found at `code/preprocess.py`.
    - Outputs are saved as CSV files with predefined filenames in `data/processed/`.
 
+2. **Estimation (R)**
+   - The processed data are loaded into R.
+   - Statistical estimation and model fitting are performed.
+   - Demonstration code for estimation can be found at `code/estimation.R`.
+     
+3. **Visualisation (Python)**
+   - Results from the R estimation step are loaded in Python.
+   - Figures and plots used in the paper are generated.
+   - Demonstration code for visualisation can be found at `code/visualisatino.py`.
 
      
