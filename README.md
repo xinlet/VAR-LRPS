@@ -24,7 +24,9 @@ This work follows a three-stage pipeline combining Python and R:
    - The AAL atlas is applied to extract region-level measurements.
    - Subjects with missing variables required for the analysis are excluded
      during this stage.
+   - The preprocess code can be found at `code/preprocess.py`.
+   - A small set of example raw fMRI files (`*_bold.nii.gz`) can be found at `code/raw/`.
    - Outputs are saved as CSV files with predefined filenames in `data/processed/`.
-   - The preprocess code can be founded at `code/preprocess.py`.
+
 
      
