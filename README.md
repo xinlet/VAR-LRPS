@@ -39,6 +39,8 @@ This work follows a three-stage pipeline combining Python and R:
 3. **Visualisation (Python)**
    - Results from the R estimation step are loaded in Python.
    - Figures and plots used in the paper are generated.
-   - Demonstration code for visualisation can be found at `code/visualisatino.py`.
+   - Demonstration code for visualisation can be found at `code/visualisation1.py` and `code/visualisation2.py`.
+   - `code/visualisation1.py` provides multi-subject Granger causality visualisation。
+   - `code/visualisation2.py` provides the group-level connectome based on one-sample t-tests of estimated VAR matrices.
 
      
