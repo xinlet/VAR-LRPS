@@ -15,3 +15,14 @@ Preprint paper link can be found at [TBD]<br />
 DMCC55B dataset can be found at [https://openneuro.org/datasets/ds003465/versions/1.0.7]<br />
 Movie-watching dataset can be found at [https://openneuro.org/datasets/ds000228/versions/1.1.1]<br />
 Resting-state dataset can be found at [https://https://openneuro.org/datasets/ds005003/versions/2.0.0]<br />
+
+## Workflow
+This work follows a three-stage pipeline combining Python and R:
+
+1. **Pre-processing (Python)**
+   - Raw image data are processed in Python.
+   - The AAL atlas is applied to extract region-level measurements.
+   - Outputs are saved as CSV files with predefined filenames in `data/processed/`.
+   - Subjects with missing variables required for the analysis are excluded
+     during this stage.
+     
