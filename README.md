@@ -25,5 +25,6 @@ This work follows a three-stage pipeline combining Python and R:
    - Subjects with missing variables required for the analysis are excluded
      during this stage.
    - Outputs are saved as CSV files with predefined filenames in `data/processed/`.
+   - The preprocess code can be founded at `code/preprocess.py`.
 
      
