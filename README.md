@@ -32,8 +32,8 @@ This work follows a three-stage pipeline combining Python and R:
    - Statistical estimation and model fitting are performed.
    - Demonstration code for estimation can be found at `code/estimation.R`.
    - It is worth noting that the demonstration code is organised into three main sections:
-      (i) generation of VAR coefficient matrices for each method,
-      (ii) evaluation of predictive performance,
+      (i) generation of VAR coefficient matrices for each method;
+      (ii) evaluation of predictive performance;
       (iii) generation of cross-validation (CV) plots.
      
 3. **Visualisation (Python)**
