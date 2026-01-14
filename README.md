@@ -22,7 +22,8 @@ This work follows a three-stage pipeline combining Python and R:
 1. **Pre-processing (Python)**
    - Raw image data are processed in Python.
    - The AAL atlas is applied to extract region-level measurements.
-   - Outputs are saved as CSV files with predefined filenames in `data/processed/`.
    - Subjects with missing variables required for the analysis are excluded
      during this stage.
+   - Outputs are saved as CSV files with predefined filenames in `data/processed/`.
+
      
