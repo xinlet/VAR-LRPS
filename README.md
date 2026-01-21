@@ -46,9 +46,9 @@ This work follows a three-stage pipeline combining Python and R:
 ## Other Visualisation
 
 - **Rank Choice and MSPE (Simulated Data):**  
-  `sim_mspe.R` implemented the visualisations for cross-validation rank selection and MSPE performance based on simulated datasets.
+  `code/sim_mspe.R` implemented the visualisations for cross-validation rank selection and MSPE performance based on simulated datasets.
 
 - **Principal Angle:**  
-  `principal_angle.R` implemented the visualisation of principal angles computed between VAR matrices for each dataset.
+  `code/principal_angle.R` implemented the visualisation of principal angles computed between VAR matrices for each dataset.
 
      
