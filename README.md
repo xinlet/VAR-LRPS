@@ -1,4 +1,4 @@
-# Robust vector autoregressive models for functional MRI activity: A low-rank pre-smoothing approach
+# Prediction of fMRI activity using vector autoregressive models: a comparison of sparse and low-rank approaches
 
 ## Abstract
 
