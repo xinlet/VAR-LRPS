@@ -43,4 +43,12 @@ This work follows a three-stage pipeline combining Python and R:
    - `code/visualisation1.py` provides multi-subject Granger causality visualisation。
    - `code/visualisation2.py` provides the group-level connectome based on one-sample t-tests of estimated VAR matrices.
 
+## Other Visualisation
+
+- **Rank Choice and MSPE (Simulated Data):**  
+  `sim_mspe.R` implemented the visualisations for cross-validation rank selection and MSPE performance based on simulated datasets.
+
+- **Principal Angle:**  
+  `principal_angle.R` implemented the visualisation of principal angles computed between VAR matrices for each dataset.
+
      
