@@ -6,14 +6,13 @@ Vector autoregressive (VAR) models have a history of being used to examine funct
 
 ## Authors
 
-[Xinle Tian](https://xinlet.github.io/), [Alex Gibberd](https://sites.google.com/view/gibberd/) , [Matthew Nunes](https://people.bath.ac.uk/man54/homepage.html), [Sandipan Roy](https://sites.google.com/view/sandipanroy)
+[Xinle Tian](https://xinlet.github.io/), [Alex Gibberd](https://sites.google.com/view/gibberd/) , [Sandipan Roy](https://sites.google.com/view/sandipanroy), [Matthew Nunes](https://people.bath.ac.uk/man54/homepage.html), 
 
 ## ArXiv link
 Preprint paper link can be found at [TBD]<br />
 
 ## Datasets
 DMCC55B dataset can be found at [https://openneuro.org/datasets/ds003465/versions/1.0.7]<br />
-Movie-watching dataset can be found at [https://openneuro.org/datasets/ds000228/versions/1.1.1]<br />
 Resting-state dataset can be found at [https://https://openneuro.org/datasets/ds005003/versions/2.0.0]<br />
 
 ## Workflow
