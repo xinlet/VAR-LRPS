@@ -6,7 +6,7 @@ Vector autoregressive (VAR) models have a history of being used to examine funct
 
 ## Authors
 
-[Xinle Tian](https://xinlet.github.io/), [Alex Gibberd](https://sites.google.com/view/gibberd/) , [Sandipan Roy](https://researchportal.bath.ac.uk/en/persons/sandipan-roy/), [Matthew Nunes](https://people.bath.ac.uk/man54/homepage.html), 
+[Xinle Tian](https://xinlet.github.io/), [Alex Gibberd](https://sites.google.com/view/gibberd/), [Sandipan Roy](https://researchportal.bath.ac.uk/en/persons/sandipan-roy/), [Matthew Nunes](https://people.bath.ac.uk/man54/homepage.html) 
 
 ## BioRxiv link
 Preprint paper link can be found at [https://www.biorxiv.org/content/10.64898/2026.06.11.731556v1.abstract]<br />
