@@ -19,7 +19,7 @@ Resting-state dataset can be found at [https://https://openneuro.org/datasets/ds
 
 | File or folder | Purpose |
 |---|---|
-| [README.md](README.md) | Detailed setup, implementation notes, script arguments and manuscript-to-output mapping. |
+| `README.md` | Detailed setup, implementation notes, script arguments and manuscript-to-output mapping. |
 | `01_simulations.py` | Synthetic coefficient-estimation and prediction experiments. |
 | `02_block_cv.py` | Task-based forecasting with one or two training blocks. |
 | `03_resting_expanding.py` | Resting-state forecasting as the training sample grows. |
