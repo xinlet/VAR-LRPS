@@ -1,0 +1,11 @@
+dataset,cluster,n_subjects,mean_component,modal_component,mean_angle_deg,beta_persistence,n_sig_BH,top_rois_vbar
+Axcpt,1,33,1.303030303030303,1,40.859701071199574,0.9289502775519171,0,Supp_Motor_Area_L; Cingulum_Mid_L; Precuneus_L; Cingulum_Mid_R; Frontal_Sup_R
+Axcpt,2,33,2.1515151515151514,2,41.50510729541396,0.8415964059778995,6,Insula_L; Caudate_R; Cerebelum_4_5_L; Cerebelum_4_5_R; ParaHippocampal_R
+Axcpt,3,33,3.9393939393939394,3,52.78304869580019,0.3671140889991417,0,Cerebelum_Crus1_L; Cerebelum_8_R; Cerebelum_7b_R; Cerebelum_Crus2_L; Cerebelum_Crus2_R
+Axcpt,4,33,4.2727272727272725,4,53.35774340192954,0.8259935782453194,3,Temporal_Sup_R; Temporal_Mid_R; Frontal_Inf_Tri_R; Temporal_Mid_L; Frontal_Inf_Oper_R
+Axcpt,5,33,6.303030303030303,6,61.268418836265226,0.5922543515482518,13,Pallidum_L; Caudate_R; Vermis_3; Caudate_L; Pallidum_R
+Axcpt,6,33,6.484848484848484,3,67.43178730354795,0.6256682420452374,9,Hippocampus_L; Amygdala_L; Cerebelum_3_R; Temporal_Pole_Sup_L; ParaHippocampal_R
+Axcpt,7,33,7.212121212121212,5,65.38703084909697,0.5487158135887111,10,Frontal_Mid_Orb_R; Frontal_Mid_Orb_L; Pallidum_R; Olfactory_L; Olfactory_R
+Axcpt,8,33,7.363636363636363,6,61.85793176317437,0.5867891686421939,7,Thalamus_R; Thalamus_L; Frontal_Inf_Orb_L; Frontal_Inf_Orb_R; Frontal_Mid_Orb_L
+Axcpt,9,33,7.393939393939394,7,66.379186979625,0.4955415506653924,3,Heschl_R; Vermis_3; Insula_R; Rectus_R; Frontal_Med_Orb_L
+Axcpt,10,33,8.575757575757576,10,66.72441054904972,0.5379518118710777,12,Thalamus_L; Thalamus_R; Hippocampus_L; Putamen_R; Vermis_9

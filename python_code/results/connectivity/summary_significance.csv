@@ -1,0 +1,16 @@
+dataset,method,n_subjects,lam,n_pairs_median,bh_edges,bh_pos,bh_neg,bonferroni_edges,bh_self,bonferroni_self
+Axcpt,VAR,33,,495,66,63,3,18,102,88
+Axcpt,LRPS,33,,495,38,34,4,4,68,29
+Axcpt,sVAR,33,0.01,495,63,63,0,7,116,109
+Axcpt,LRPSk5,33,,495,7,6,1,1,37,8
+Axcpt,LRPSk20,33,,495,66,64,2,10,93,52
+Cuedts,VAR,35,,534,98,88,10,18,105,85
+Cuedts,LRPS,35,,534,35,31,4,5,72,37
+Cuedts,sVAR,35,0.007498942093324559,534,121,118,3,11,116,112
+Cuedts,LRPSk5,35,,534,0,0,0,0,42,14
+Cuedts,LRPSk20,35,,534,149,134,15,12,83,57
+resting,VAR,35,,159,0,0,0,0,17,4
+resting,LRPS,35,,159,0,0,0,0,0,0
+resting,sVAR,35,0.01,159,0,0,0,0,95,71
+resting,LRPSk5,35,,159,1,1,0,1,0,0
+resting,LRPSk20,35,,159,0,0,0,0,3,1

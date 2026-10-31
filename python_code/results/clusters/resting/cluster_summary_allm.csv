@@ -1,0 +1,11 @@
+dataset,cluster,n_subjects,mean_component,modal_component,mean_angle_deg,beta_persistence,n_sig_BH,top_rois_vbar
+resting,1,35,2.3142857142857145,2,41.365308212236464,0.6092378370615363,0,Cingulum_Mid_L; Lingual_R; Calcarine_R; Lingual_L; Cingulum_Mid_R
+resting,2,35,3.7142857142857144,1,54.30330885162417,0.5605950490269546,0,Postcentral_L; Parietal_Inf_L; Parietal_Sup_L; Parietal_Sup_R; Supp_Motor_Area_R
+resting,3,35,4.628571428571429,4,58.45625289550983,0.36182415637161275,0,Cerebelum_7b_R; Cerebelum_Crus1_R; Occipital_Inf_R; Calcarine_L; Calcarine_R
+resting,4,35,4.6571428571428575,2,62.249673629450356,0.4674218923802091,0,Insula_R; Cerebelum_10_L; Putamen_L; Insula_L; Cerebelum_9_L
+resting,5,35,4.742857142857143,5,62.90287075365052,0.5101630239575917,0,SupraMarginal_R; Temporal_Mid_R; Temporal_Sup_R; Temporal_Mid_L; SupraMarginal_L
+resting,6,35,5.771428571428571,5,63.67509980910091,0.42320265174901095,0,Frontal_Sup_Medial_L; Frontal_Sup_Medial_R; Frontal_Sup_R; Vermis_1_2; Frontal_Mid_R
+resting,7,35,7.114285714285714,10,66.90313534431799,0.3413003902041392,0,Cerebelum_4_5_L; Cerebelum_3_R; Putamen_L; Insula_L; Cerebelum_3_L
+resting,8,35,7.2,8,67.435069668699,0.32421482681833785,0,Cerebelum_10_L; Vermis_10; Vermis_9; Calcarine_R; Cerebelum_10_R
+resting,9,35,7.2,9,65.90605966492078,0.3565373158226197,0,Cerebelum_3_L; Cerebelum_Crus2_R; Cerebelum_7b_R; Cerebelum_Crus1_R; Cerebelum_Crus1_L
+resting,10,35,7.6571428571428575,9,66.87999635797036,0.29168782802675053,0,Vermis_1_2; Vermis_3; Heschl_R; Cerebelum_3_L; Frontal_Sup_Orb_L
